@@ -1,3 +1,3 @@
 import streamlit
 
-streamlit.tltle('My Parent New App - SK')
+streamlit.title('My Parent New App - SK')
