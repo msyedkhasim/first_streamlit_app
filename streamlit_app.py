@@ -2,8 +2,7 @@ import streamlit
 
 streamlit.title('My Parent New App - SK')
 streamlit.header('Breakfast Menu')
-streamlit.text('Kale ')
-streamlit.text('Egg')
-streamlit.text('burger')
-streamlit.text('cheese ommelet')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
 
